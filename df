@@ -1,0 +1,35 @@
+[33mcommit 487c6541eba688ec6d046becd1dcf9953a3900ce[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Nihith Tej <nihith@usf.edu>
+Date:   Sun Mar 13 20:46:12 2022 -0400
+
+    v4
+
+[33mcommit c3c882f2868b21e8905054b618393e9f3f12c4e4[m
+Author: Nihith Tej <nihith@usf.edu>
+Date:   Sun Mar 13 19:20:44 2022 -0400
+
+    v4 Embed Powerbi visual
+
+[33mcommit a0eac9f2bb4853fa9bf856d6d863c032134d7403[m
+Author: Nihith Tej <nihith@usf.edu>
+Date:   Sun Mar 13 19:19:59 2022 -0400
+
+    v4 Embed powerbi visual
+
+[33mcommit e12b8d12770552f9387b7d569475159515acb288[m
+Author: Nihith Tej <nihith@usf.edu>
+Date:   Sun Mar 13 18:25:22 2022 -0400
+
+    v3
+
+[33mcommit ec78aa118bdba6b57729efbc3734aad863cb4132[m
+Author: Nihith Tej <nihith@usf.edu>
+Date:   Sun Mar 13 18:22:12 2022 -0400
+
+    Add project files.
+
+[33mcommit b72f725c43d28426d31218027283dd7610636f89[m
+Author: Nihith Tej <nihith@usf.edu>
+Date:   Sun Mar 13 18:22:10 2022 -0400
+
+    Add .gitignore and .gitattributes.
